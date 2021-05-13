@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ML and DL projects.
 - 📫 How to reach me email-id: pratikbambulkar1818@gmail.com
--            
 
 <!---
 Pratik180198/Pratik180198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
