@@ -1,4 +1,4 @@
-- #Hi there, I’m Pratik Bambulkar👋
+- # Hi there, I’m Pratik Bambulkar👋
 - 👀 I’m interested in Python, SQL, Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ML and DL projects.
